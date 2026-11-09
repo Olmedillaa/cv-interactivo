@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Héctor Olmedilla - CV Interactivo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Buscador de Skills - Héctor Olmedilla</h1>
+        <button id="btn-toggle-perfil">Ver Resumen CV</button>
+    </header>
+
+    <aside id="panel-perfil" class="oculto">
+        <div class="perfil-header">
+            <h2>Mi Perfil</h2>
+            <button id="btn-cerrar-perfil">X</button>
+        </div>
+        <div id="contenido-perfil">
+            <!-- JS inyectará el perfil.json aquí -->
+        </div>
+    </aside>
+
+    <main>
+        <p class="intro">Usa el buscador para explorar mis conocimientos técnicos, metodologías y proyectos en curso (ej. <em>"Java", "Frontend", "BBDD"</em>).</p>
+        
+        <div class="contenedor-buscador">
+            <input type="text" id="input-busqueda" placeholder="Busca una tecnología, habilidad o herramienta...">
+            <button id="btn-buscar">Buscar</button>
+        </div>
+
+        <ul id="lista-conocimientos">
+            <!-- JS inyectará los conocimientos aquí -->
+        </ul>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

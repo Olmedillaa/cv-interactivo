@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "tipo": "Frontend",
+    "titulo": "HTML5, CSS3 y JavaScript ES6+",
+    "descripcion": "Maquetación web y manipulación del DOM. Desarrollo de interfaces limpias orientadas a la experiencia de usuario (UX), como en mi proyecto FitVisual.",
+    "etiquetas": ["Frontend", "Diseño", "UI", "DOM", "Responsive"]
+  },
+  {
+    "id": 2,
+    "tipo": "Backend",
+    "titulo": "Java y Programación Orientada a Objetos",
+    "descripcion": "Desarrollo de lógica de negocio, uso de JDBC para bases de datos y creación de interfaces con Swing.",
+    "etiquetas": ["Backend", "Java", "POO", "Lógica", "Escritorio"]
+  },
+  {
+    "id": 3,
+    "tipo": "Backend",
+    "titulo": "PHP y Despliegue en Servidores",
+    "descripcion": "Creación de scripts del lado del servidor, configuración y despliegue en Apache/Nginx.",
+    "etiquetas": ["Backend", "PHP", "Servidores", "Apache", "Nginx"]
+  },
+  {
+    "id": 4,
+    "tipo": "Bases de Datos",
+    "titulo": "MySQL y MariaDB",
+    "descripcion": "Diseño de esquemas relacionales, consultas SQL complejas y gestión a través de consola o DBeaver.",
+    "etiquetas": ["BBDD", "SQL", "Relacional", "DBeaver"]
+  },
+  {
+    "id": 5,
+    "tipo": "Sistemas",
+    "titulo": "Sistemas Linux y Shell Scripting",
+    "descripcion": "Manejo de la terminal (Bash), gestión de máquinas virtuales (VirtualBox con Debian/Lubuntu) y administración básica.",
+    "etiquetas": ["Sistemas", "Linux", "Bash", "Terminal", "Virtualización"]
+  },
+  {
+    "id": 6,
+    "tipo": "Soft Skill",
+    "titulo": "Diseño Centrado en el Usuario",
+    "descripcion": "Capacidad para simplificar aplicaciones para usuarios no técnicos (ej. rutinas visuales para el gimnasio).",
+    "etiquetas": ["UX", "Empatía", "Resolución de problemas", "Accesibilidad"]
+  },
+  {
+    "id": 7,
+    "tipo": "Soft Skill",
+    "titulo": "Aprendizaje Autónomo y Troubleshooting",
+    "descripcion": "Enfoque paso a paso para resolver problemas técnicos, desde errores de sintaxis hasta conexiones de bases de datos.",
+    "etiquetas": ["Proactividad", "Troubleshooting", "Autodidacta", "Lógica"]
+  }
+]
